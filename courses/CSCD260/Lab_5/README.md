@@ -38,6 +38,7 @@ $$
 You can move some 𝑥 to R0. The output of the function should be in R1.
 ## Part 4
 Using two registers, R0 and R1, and **conditional instruction(s) only**, write an assembly code to implement the function 𝑓 defined as follows:
+
 $$
 f(x) = 
 \begin{cases}
